@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://foco.lcrm.com.br/favicon.ico" alt="FocoM Logo" width="120" />
+ <!-- <img src="https://foco.lcrm.com.br/favicon.ico" alt="FocoM Logo" width="120" /> -->
   
   # FocoM: Foco que não escapa. Produtividade que fica.
   *(Focus that doesn't escape. Productivity that stays.)*
